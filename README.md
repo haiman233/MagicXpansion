@@ -1,13 +1,11 @@
-# MagicXpansion
+# 霊幻之梦
 
-**By Apeiros**
-
-### This project has been temporarily stalled.
-### This project will most likely be re-made soon.
+**作者：Apeiros**
+汉化作者：haiman233
 
 ### Requirements/Dependencies:
 
-**This addon will not work without these!**
+**请注意你的服务器需要具备这些条件!**
 
 - Java 11
 - [Paper](https://papermc.io)
@@ -16,9 +14,8 @@
 
 This addon adds more magical gadgets and talismans.
 
-**Disclaimer: Some items in this addon can potentially be OP. If you do not want an item on your server, disable it in Items.yml.**
 
-## List of added items:
+## 物品列表:
 
 ### List of items and resources:
 - Ender lumps IV and V
@@ -54,7 +51,7 @@ This addon adds more magical gadgets and talismans.
 
 ## Credits:
 
-### Thanks to
+### 鸣谢
 - DeepFriedDurp#5899 for helping me come up with ideas
 - [@GallowsDove](https://github.com/gallowsdove), [@waleks](https://github.com/waleks647) and [@Mooy1](https://github.com/mooy1) for giving feedback on ideas
 - [Slimefun Discord](https://discord.gg/slimefun) for having a #programming-help channel
